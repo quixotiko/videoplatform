@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\category",
+    "\\src\\components\\home",
+    "\\src\\components\\hot",
+    "\\src\\components\\video-page"
+  ],
+  "SelectedNode": "\\src\\components\\video-page\\video-page.vue",
+  "PreviewInSolutionExplorer": false
+}
