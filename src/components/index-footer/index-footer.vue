@@ -1,9 +1,5 @@
 <template>
   <div class="index-footer-container">
-    <img src="./zju.jpg" alt="">
-    <div> 浙江大学毕业设计项目</div>
-    <div> 基于Vue.js的线上视频平台设计</div>
-    <div> 答辩人：覃小康</div>
   </div>
 </template>
 
