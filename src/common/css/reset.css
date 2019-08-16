@@ -10,7 +10,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 html{
-	min-width:1200px;
+	/* min-width:1200px; */
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;

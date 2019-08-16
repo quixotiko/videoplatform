@@ -93,6 +93,9 @@ const mutations ={
         vcwc.push(item)
       }
     })
+    while(vfh.length < 10){
+      vfh.push(vfh[_.random(0,4)])
+    }
     var v = vcwc[0].data.itemList
     v = _.concat(v, vfh.slice(0, 3))
     vcwc[0].data.itemList = v
