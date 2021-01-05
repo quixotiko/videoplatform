@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "babel-polyfill": "^6.26.0",
     "vue": "^2.5.2",
     "vue-axios": "2.1.4",
